@@ -1,10 +1,10 @@
 # site settings
 
-title: Ralph | 
+title: Ralph | Hacker
 description: Portfolio site and blog for Ralph
 taglong: Portfolio site and blog for Ralph
 tagshort: Ralph's site
-url: https://cvless.netlify.app
+url: https://rupamgaraigarai.co
 baseurl: ""
 permalink: pretty
 repo: https://github.com/ralphhack666/ralphhack666.github.io
